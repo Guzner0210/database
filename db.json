@@ -1,0 +1,8 @@
+{
+  created_at: "2019-09-18T22:25:01.298095Z",
+  id: 1,
+  name: "APPL",
+  purchasePrice: 220.01,
+  sector: "Information Technology",
+  shares: 200
+}
